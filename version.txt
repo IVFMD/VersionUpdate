@@ -1,1 +1,1 @@
-Date=20180102|version=1.0.50
+Date=20180102|version=1.0.20
